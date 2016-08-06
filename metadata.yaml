@@ -1,0 +1,24 @@
+_repo: Woman-s-Institute-Library-of-Cookery--13-Volume-4--Salads-and-Sandwiches--Cold-and-Frozen-Dess__9938
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woman's Institute of Domestic Arts and Sciences
+    gutenberg_agent_id: '3210'
+    url: http://www.gutenberg.org/2009/agents/3210
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- GITenberg
+title: "Woman's Institute Library of Cookery\r\nVolume 4: Salads and Sandwiches; Cold\
+  \ and Frozen Desserts; Cakes, Cookies and Puddings; Pastries and Pies"
+url: http://www.gutenberg.org/ebooks/9938
